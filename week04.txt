@@ -3,4 +3,4 @@ cp 원본 파일 복사본 파일
 
 
 깃 명령어
-
+git log --graph --oneline
